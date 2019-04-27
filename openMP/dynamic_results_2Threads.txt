@@ -1,0 +1,110 @@
+Imatge: /share/apps/files/convolution/images/im01.ppm
+ISizeX : 292
+ISizeY : 320
+kSizeX : 3
+kSizeY : 3
+0.039980 seconds elapsed for Reading image file.
+0.001276 seconds elapsed for copying image structure.
+0.039174 seconds elapsed for Reading kernel matrix.
+0.009852 seconds elapsed for make the convolution.
+0.025364 seconds elapsed for writing the resulting image.
+0.116535 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im01.ppm
+ISizeX : 292
+ISizeY : 320
+kSizeX : 5
+kSizeY : 5
+0.024720 seconds elapsed for Reading image file.
+0.000981 seconds elapsed for copying image structure.
+0.001168 seconds elapsed for Reading kernel matrix.
+0.016971 seconds elapsed for make the convolution.
+0.019918 seconds elapsed for writing the resulting image.
+0.063784 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im01.ppm
+ISizeX : 292
+ISizeY : 320
+kSizeX : 25
+kSizeY : 25
+0.033294 seconds elapsed for Reading image file.
+0.001295 seconds elapsed for copying image structure.
+0.001532 seconds elapsed for Reading kernel matrix.
+0.329292 seconds elapsed for make the convolution.
+0.031127 seconds elapsed for writing the resulting image.
+0.396567 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im01.ppm
+ISizeX : 292
+ISizeY : 320
+kSizeX : 49
+kSizeY : 49
+0.023224 seconds elapsed for Reading image file.
+0.000965 seconds elapsed for copying image structure.
+0.001527 seconds elapsed for Reading kernel matrix.
+1.200713 seconds elapsed for make the convolution.
+0.021451 seconds elapsed for writing the resulting image.
+1.247908 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im01.ppm
+ISizeX : 292
+ISizeY : 320
+kSizeX : 99
+kSizeY : 99
+0.020129 seconds elapsed for Reading image file.
+0.000854 seconds elapsed for copying image structure.
+0.004172 seconds elapsed for Reading kernel matrix.
+4.520659 seconds elapsed for make the convolution.
+0.022897 seconds elapsed for writing the resulting image.
+4.568740 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im05.ppm
+ISizeX : 12000
+ISizeY : 8000
+kSizeX : 3
+kSizeY : 3
+18.734352 seconds elapsed for Reading image file.
+0.738182 seconds elapsed for copying image structure.
+0.016385 seconds elapsed for Reading kernel matrix.
+6.486379 seconds elapsed for make the convolution.
+17.944723 seconds elapsed for writing the resulting image.
+43.920552 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im05.ppm
+ISizeX : 12000
+ISizeY : 8000
+kSizeX : 5
+kSizeY : 5
+18.343356 seconds elapsed for Reading image file.
+0.693343 seconds elapsed for copying image structure.
+0.002139 seconds elapsed for Reading kernel matrix.
+15.251154 seconds elapsed for make the convolution.
+18.972222 seconds elapsed for writing the resulting image.
+53.262253 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im05.ppm
+ISizeX : 12000
+ISizeY : 8000
+kSizeX : 25
+kSizeY : 25
+18.105038 seconds elapsed for Reading image file.
+0.707850 seconds elapsed for copying image structure.
+0.002884 seconds elapsed for Reading kernel matrix.
+329.439867 seconds elapsed for make the convolution.
+21.092971 seconds elapsed for writing the resulting image.
+369.348649 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im05.ppm
+ISizeX : 12000
+ISizeY : 8000
+kSizeX : 49
+kSizeY : 49
+18.233965 seconds elapsed for Reading image file.
+0.699094 seconds elapsed for copying image structure.
+0.004073 seconds elapsed for Reading kernel matrix.
+1299.509700 seconds elapsed for make the convolution.
+20.963511 seconds elapsed for writing the resulting image.
+1339.410387 seconds elapsed
+Imatge: /share/apps/files/convolution/images/im05.ppm
+ISizeX : 12000
+ISizeY : 8000
+kSizeX : 99
+kSizeY : 99
+18.188656 seconds elapsed for Reading image file.
+0.704834 seconds elapsed for copying image structure.
+0.005807 seconds elapsed for Reading kernel matrix.
+5172.132275 seconds elapsed for make the convolution.
+23.767692 seconds elapsed for writing the resulting image.
+5214.799304 seconds elapsed
